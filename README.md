@@ -48,12 +48,19 @@ This project implements an Inventory Management System for a small retail store,
    - Add Product
    ![AddProduct](Images/01_AddProduct.png)
    - Display Product
+   ![DisplayProduct](Images/02_DisplayProduct.png)
    - Update Product
+   ![UpdateProduct](Images/03_UpdateProduct.png)
    - RemoveProduct
+   ![RemoveProduct](Images/04_RemoveProduct.png)
    - Check Stock
+   ![CheckProduct](Images/05_CheckStock.png)
    - Record Sale
+   ![RecordProduct](Images/06_RecordSale.png)
    - Generate Report
+   ![GenerateReport](Images/07_GenerateReport.png)
    - Exit Screen
+   ![ExitScreen](Images/08_ExitScreen.png)
 
 <!-- Replace "path/to/screenshot.png" with the actual path to your output screenshot. -->
 
