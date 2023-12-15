@@ -69,13 +69,12 @@ This project implements an Inventory Management System for a small retail store,
    - **Exit Screen**
    ![ExitScreen](Images/08_ExitScreen.png)
 
-<!-- Replace "path/to/screenshot.png" with the actual path to your output screenshot. -->
 
 ## Contributors
 
-    Piyush Ranjan
+Piyush Ranjan
     
-    Feel free to contribute, report issues, or suggest improvements!
+Feel free to contribute, report issues, or suggest improvements!
 
 Happy managing your inventory!
 
