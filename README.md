@@ -30,4 +30,28 @@ This project implements an Inventory Management System for a small retail store,
 
    ```bash
    git clone https://github.com/your-username/inventory-management-system.git
+   
+2. Compile and run the CombinedCode.java file to start the Inventory Management System:
+
+   '''bash
+   javac CombinedCode.java
+   java CombinedCode
+   
+3. Follow the on-screen menu to interact with the system.
+
+## Usage
+   - Follow the menu options to perform various operations such as adding products, updating details, checking stock, recording sales, and generating reports.
+
+   - The system provides a user-friendly interface to manage your inventory efficiently.
+
+## Output Screenshot
+Output Screenshot
+
+<!-- Replace "path/to/screenshot.png" with the actual path to your output screenshot. -->
+
+## Contributors
+Piyush Ranjan
+Feel free to contribute, report issues, or suggest improvements!
+
+Happy managing your inventory!
 
