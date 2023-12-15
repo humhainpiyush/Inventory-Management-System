@@ -33,7 +33,7 @@ This project implements an Inventory Management System for a small retail store,
    
 2. Compile and run the CombinedCode.java file to start the Inventory Management System:
 
-   '''bash
+   ```bash
    javac CombinedCode.java
    java CombinedCode
    
