@@ -45,7 +45,15 @@ This project implements an Inventory Management System for a small retail store,
    - The system provides a user-friendly interface to manage your inventory efficiently.
 
 ## Output Screenshot
-Output Screenshot
+   - Add Product
+   ![AddProduct](Images/01_AddProduct.png)
+   - Display Product
+   - Update Product
+   - RemoveProduct
+   - Check Stock
+   - Record Sale
+   - Generate Report
+   - Exit Screen
 
 <!-- Replace "path/to/screenshot.png" with the actual path to your output screenshot. -->
 
