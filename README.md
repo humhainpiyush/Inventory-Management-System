@@ -37,7 +37,7 @@ This project implements an Inventory Management System for a small retail store,
    javac CombinedCode.java
    java CombinedCode
 
-   > the file name should be as per file name saved in your system.
+> the file name should be as per file name saved in your system.
    
 3. Follow the on-screen menu to interact with the system.
 
